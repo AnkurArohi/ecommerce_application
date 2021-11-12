@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shop-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shop-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shop-general" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shop-ui" vcs="Git" />
+  </component>
+</project>

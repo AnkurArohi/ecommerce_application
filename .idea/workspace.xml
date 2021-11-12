@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbba0104-900c-427e-8608-997c1e80c742" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/shop-admin" beforeDir="false" afterPath="$PROJECT_DIR$/shop-admin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-admin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-admin/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/shop-admin/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-admin/src/app/@core/utils/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-admin/src/app/@theme/directives/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-admin/src/app/@theme/pipes/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-admin/src/assets/.gitkeep" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/shop-admin" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="20oLZWJoaBssAt2NZk3GcofGl3q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shop-backend" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbba0104-900c-427e-8608-997c1e80c742" name="Default Changelist" comment="" />
+      <created>1636706050207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636706050207</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2981" y="460" key="FileChooserDialogImpl" timestamp="1636706349224">
+      <screen x="1920" y="0" width="2560" height="1409" />
+    </state>
+    <state x="2981" y="460" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.2560.1409@1920.0.2560.1409" timestamp="1636706349224" />
+    <state x="2793" y="438" key="Vcs.Push.Dialog.v2" timestamp="1636706119560">
+      <screen x="1920" y="0" width="2560" height="1409" />
+    </state>
+    <state x="2793" y="438" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.2560.1409@1920.0.2560.1409" timestamp="1636706119560" />
+  </component>
+</project>
